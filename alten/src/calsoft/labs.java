@@ -11,5 +11,6 @@ public class labs {
     private static void display() {
         System.out.println("checking");
         System.out.println("is he new user");
+        System.out.println("change");
     }
 }
